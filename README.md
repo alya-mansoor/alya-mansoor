@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Alya! 👋
+
+- 👩‍🎓 I'm currently studying for an Associate of Science in Mathematics and an Associate of Science in Physics at Austin Community College. I aim to transfer for the Fall 2024 semester to study Electrical Engineering and Computer Science.
+
+- 🌱 I’m learning about Git, HTML, CSS, and JavaScript.
+
+- 👯 I’m looking to collaborate on team-based projects. I'm eager to meet other passionate students and for new learning experiences!
+
+- ⚡ Fun fact - I recently competed in a hackathon, RiverHacks 2024. Check out my team's project on my GitHub profile! My all-female team placed in two categories:
+  - Won Best Domain Name from GoDaddy Registry 🎉
+  - Won Best Cloud Hack 🎉
+
+- 📫 Feel free to reach out over email or LinkedIn:
+  - Email: alya.mansoor786@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/alya-mansoor/
 
 <!--
 **alya-mansoor/alya-mansoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
