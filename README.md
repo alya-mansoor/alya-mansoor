@@ -4,8 +4,6 @@
 
 - 🌱 I’m learning about Git, HTML, CSS, and JavaScript.
 
-- 👯 I’m looking to collaborate on team-based projects. I'm eager to meet other passionate students and for new learning experiences!
-
 - ⚡ Fun fact - I recently competed in a hackathon, RiverHacks 2024. Check out my team's project on my GitHub profile! My all-female team placed in two categories:
   - Won Best Domain Name from GoDaddy Registry 🎉
   - Won Best Cloud Hack 🎉
